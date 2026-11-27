@@ -44,3 +44,8 @@ Las fichas temáticas de terceros se utilizan como índices para localizar propu
 - No se ha convertido la falta de evidencia en oposición. Las retiradas quedan como «sin posición documentada» y reducen la cobertura.
 - La auditoría estructural confirmó 14 perfiles, 100 posiciones activas, cero identificadores de opción inválidos, cero duplicados y cero entradas sin título, URL, texto de evidencia o fecha de comprobación.
 - **Pendiente:** cotejar una a una las posiciones restantes de PP, PSOE, VOX, Frente Amplio, SALF y D21 contra sus documentos primarios; revisar también las candidaturas no prioritarias. Hasta completar esa fase, el conjunto no debe presentarse como una auditoría exhaustiva ni como un ranking definitivo.
+
+
+## Revisión documental focalizada del 27-11-2026
+
+La auditoría focalizada de los siete perfiles prioritarios se documenta en [`auditoria-2026-11-27.md`](./auditoria-2026-11-27.md). Se retiraron correspondencias que no estaban demostradas y se actualizó el enlace de evidencia a las fuentes oficiales. La revisión no debe interpretarse como certificación exhaustiva de cada página de todos los PDF: el avance de VOX no es un programa completo y el PDF de SALF requiere comprobación manual adicional.
