@@ -76,30 +76,6 @@
         }
       },
       {
-        "questionId": "sanidad",
-        "optionId": "E",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
-          "page": "p. 50",
-          "quote": "Atención psicológica gratuita con primera consulta en un máximo de 30 días.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "inmigracion",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
-          "page": "p. 92",
-          "quote": "Ampliar las vías legales y seguras de protección internacional.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "inmigracion",
         "optionId": "G",
         "stance": "support",
@@ -132,18 +108,6 @@
           "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
           "page": "pp. 65–66",
           "quote": "Alcanzar un 81 % de generación eléctrica renovable en 2030 y abandonar progresivamente los combustibles fósiles.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "territorio",
-        "optionId": "B",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
-          "page": "pp. 60–61",
-          "quote": "Impulsar el nuevo sistema de financiación autonómica y la asunción parcial de deuda autonómica.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -194,10 +158,10 @@
         "optionId": "D",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "empleo",
-          "quote": "Salario mínimo de 1.800 euros fijado por ley.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 40, medida 111",
+          "quote": "Elevar el salario mínimo interprofesional hasta los 1.800 euros mensuales.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -206,10 +170,10 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "empleo",
-          "quote": "Jornada laboral de 30 horas semanales.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 40, medida 113",
+          "quote": "Reducir la jornada laboral sin reducir los salarios. Reduciremos la jornada laboral a 30 horas semanales durante la legislatura.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -218,10 +182,10 @@
         "optionId": "G",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "vivienda",
-          "quote": "Precios justos y que nadie que quiera especular pueda comprar una vivienda en España.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "pp. 8–9, medidas 3 y 7",
+          "quote": "Prohibición de la compra de casas que no sean para vivir; prohibición de los pisos turísticos.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -230,10 +194,10 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "sanidad",
-          "quote": "Sanidad pública con recursos suficientes y más profesionales mejor pagados.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 88, medida 302",
+          "quote": "Incrementaremos progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habitante y año.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -242,10 +206,10 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "servicios públicos",
-          "quote": "Defensa de la educación pública con recursos suficientes.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 79, medida 279",
+          "quote": "Avanzaremos hacia una única red educativa de gestión pública directa, poniendo fin progresivamente a la privatización de la enseñanza y a la utilización de fondos públicos para financiar negocios privados.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -254,10 +218,10 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "familia e igualdad",
-          "quote": "Vidas libres de violencias machistas.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 55, medida 163",
+          "quote": "Actualizar la definición de violencia machista para que recoja todas las formas de violencia contra las mujeres.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -266,10 +230,10 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "medio ambiente y energía",
-          "quote": "Lucha contra el cambio climático.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 94, medida 316",
+          "quote": "Acelerar la transición hacia un modelo energético limpio y sostenible y reducir las emisiones de gases de efecto invernadero.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -278,10 +242,10 @@
         "optionId": "D",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Podemos — propuestas de la web oficial «Paz, casa y trabajo»",
-          "url": "https://politicareal.org/elecciones-29n/programas/podemos/",
-          "page": "exterior y defensa",
-          "quote": "Ni un euro más a armas; destinar recursos a servicios públicos.",
+          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "p. 27, medida 72",
+          "quote": "Revertir por completo el rearme y destinar esos recursos a financiar los servicios públicos, el derecho a la vivienda y la paz.",
           "checkedAt": "2026-11-27"
         }
       }
@@ -376,30 +340,6 @@
         }
       },
       {
-        "questionId": "sanidad",
-        "optionId": "E",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
-          "page": "p. 70",
-          "quote": "Plan Nacional de Salud Mental 2027–2037.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "educacion",
-        "optionId": "C",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
-          "page": "p. 67",
-          "quote": "En la ESO se volverá a pasar de curso con las asignaturas aprobadas.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "inmigracion",
         "optionId": "B",
         "stance": "support",
@@ -420,18 +360,6 @@
           "url": "https://politicareal.org/elecciones-29n/programas/pp/",
           "page": "p. 20",
           "quote": "Ampliar la prisión permanente revisable a determinados delitos sexuales y homicidios.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "territorio",
-        "optionId": "B",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
-          "page": "p. 40",
-          "quote": "Nuevo modelo de financiación autonómica acordado multilateralmente.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -526,18 +454,6 @@
         }
       },
       {
-        "questionId": "sanidad",
-        "optionId": "F",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
-          "page": "sanidad",
-          "quote": "Tarjeta sanitaria única, historia clínica compartida y plan nacional contra las listas de espera.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "educacion",
         "optionId": "B",
         "stance": "support",
@@ -598,18 +514,6 @@
         }
       },
       {
-        "questionId": "energia",
-        "optionId": "F",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
-          "page": "medio ambiente y energía",
-          "quote": "Revertir normativas inspiradas en el Pacto Verde y la Agenda 2030.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "instituciones",
         "optionId": "B",
         "stance": "support",
@@ -660,18 +564,6 @@
           "url": "https://politicareal.org/elecciones-29n/programas/frente-amplio/",
           "page": "propuestas económicas, 5 de noviembre",
           "quote": "Impuesto sobre el patrimonio neto del 2 % desde un millón de euros y del 3 % desde 50 millones.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "economia",
-        "optionId": "E",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Frente Amplio — extracto de propuestas oficiales publicadas para el 29N",
-          "url": "https://politicareal.org/elecciones-29n/programas/frente-amplio/",
-          "page": "propuestas económicas, 24 de octubre",
-          "quote": "Suelo mínimo efectivo del 15 % en el Impuesto de Sociedades para grandes empresas.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -730,18 +622,6 @@
         }
       },
       {
-        "questionId": "empleo",
-        "optionId": "C",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
-          "page": "p. 12",
-          "quote": "Eliminar por completo la cuota de autónomos e implantar el IVA de caja.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "vivienda",
         "optionId": "E",
         "stance": "support",
@@ -762,18 +642,6 @@
           "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
           "page": "p. 5",
           "quote": "Desalojo policial de ocupantes en 48 horas con denuncia y título de propiedad.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "vivienda",
-        "optionId": "C",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
-          "page": "p. 6",
-          "quote": "Suelo de la Sareb y del Estado para vivienda protegida en propiedad a precio tasado.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -1246,18 +1114,6 @@
         }
       },
       {
-        "questionId": "vivienda",
-        "optionId": "C",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
-          "page": "bloque Vivienda",
-          "quote": "Movilizar inmuebles vacíos y promover nuevos barrios para ampliar la oferta residencial.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "sanidad",
         "optionId": "A",
         "stance": "support",
@@ -1266,18 +1122,6 @@
           "url": "https://electosfera.es/2026/generales/d21/",
           "page": "bloque Sanidad",
           "quote": "Abrir quirófanos públicos por las tardes para reducir las listas de espera.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "sanidad",
-        "optionId": "F",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
-          "page": "bloque Sanidad",
-          "quote": "Reducir las guardias de 24 horas y reorganizar la actividad sanitaria.",
           "checkedAt": "2026-11-27"
         }
       },
