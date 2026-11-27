@@ -24,6 +24,12 @@ const VALUE: Record<Exclude<Stance, "unknown">, number> = {
   oppose: 0
 };
 
+// Respuestas de abstención: no representan una preferencia política puntuable.
+const NON_SCORING_OPTIONS: Record<string, string[]> = {
+  economia: ["F"],
+  empleo: ["G"]
+};
+
 function hasVerifiableEvidence(position: PartyPosition): boolean {
   const evidence = position.evidence;
   return Boolean(
@@ -47,12 +53,15 @@ export function calculateCompatibility(
 
   for (const [questionId, selectedOptions] of Object.entries(answers)) {
     const questionWeight = weights[questionId] ?? 0;
-    if (!selectedOptions.length || questionWeight <= 0) continue;
+    const scorableOptions = selectedOptions.filter(
+      optionId => !(NON_SCORING_OPTIONS[questionId] || []).includes(optionId)
+    );
+    if (!scorableOptions.length || questionWeight <= 0) continue;
 
-    const optionWeight = questionWeight / selectedOptions.length;
+    const optionWeight = questionWeight / scorableOptions.length;
     weightedPossible += questionWeight;
 
-    for (const optionId of selectedOptions) {
+    for (const optionId of scorableOptions) {
       const position = party.positions.find(
         item => item.questionId === questionId && item.optionId === optionId
       );
