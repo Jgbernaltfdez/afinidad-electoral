@@ -31,7 +31,7 @@ Este inventario distingue entre documentos publicados por las candidaturas y pá
 
 ## Cobertura prioritaria actualizada
 
-Tras la auditoría semántica, la base contiene 100 posiciones para 13 candidaturas. La distribución prioritaria es: PP 12, PSOE 12, VOX 12, Frente Amplio 4, Podemos 8, D21 6 y SALF 17. Las cifras representan correspondencias documentadas con opciones del cuestionario, no una evaluación exhaustiva de cada programa.
+Tras la auditoría semántica, la base contiene 99 posiciones para 13 candidaturas. La distribución prioritaria es: PP 12, PSOE 11, VOX 11, Frente Amplio 4, Podemos 8, D21 7 y SALF 17. Las cifras representan correspondencias documentadas con opciones del cuestionario, no una evaluación exhaustiva de cada programa.
 
 Las fichas temáticas de terceros se utilizan como índices para localizar propuestas y páginas. En la interfaz, el texto se presenta como «propuesta recogida» y no como cita literal del documento electoral. Las fuentes secundarias no sustituyen la comprobación de cada página del PDF original.
 
@@ -49,3 +49,8 @@ Las fichas temáticas de terceros se utilizan como índices para localizar propu
 ## Revisión documental focalizada del 27-11-2026
 
 La auditoría focalizada de los siete perfiles prioritarios se documenta en [`auditoria-2026-11-27.md`](./auditoria-2026-11-27.md). Se retiraron correspondencias que no estaban demostradas y se actualizó el enlace de evidencia a las fuentes oficiales. La revisión no debe interpretarse como certificación exhaustiva de cada página de todos los PDF: el avance de VOX no es un programa completo y el PDF de SALF requiere comprobación manual adicional.
+
+
+## Recuento tras el cotejo del 27-11-2026
+
+La base contiene 99 posiciones activas en 13 candidaturas. Recuento de los siete perfiles prioritarios: PP 12, PSOE 11, VOX 11, Frente Amplio 4, Podemos 8, Democracia 21 7 y SALF 17. El detalle de las comprobaciones, exclusiones y limitaciones está en [`auditoria-2026-11-27.md`](./auditoria-2026-11-27.md).
