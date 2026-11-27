@@ -4,6 +4,8 @@ import { useEffect, useMemo, useState } from "react";
 import questions from "../data/questions.json";
 import provinces from "../data/circunscripciones.json";
 import candidaturas from "../data/candidaturas.json";
+import positionData from "../data/posiciones.json";
+import { calculateCompatibility, type PartyProfile } from "../lib/scoring";
 
 type Option = { id: string; text: string };
 type Question = { id: string; title: string; weight: number; prompt: string; options: [string,string][] };
@@ -13,6 +15,8 @@ type Answers = Record<string, string[]>;
 const qs = questions as Question[];
 const provinceList = provinces as string[];
 const partyData = candidaturas as Record<string, Party[]>;
+const profiles = positionData as PartyProfile[];
+const weights = Object.fromEntries(qs.map(q => [q.id, q.weight]));
 const totalWeight = qs.reduce((sum, q) => sum + q.weight, 0);
 
 export default function Home() {
@@ -41,6 +45,10 @@ export default function Home() {
   const answered = qs.filter(q => (answers[q.id] || []).length > 0).length;
   const selected = answers[current?.id] || [];
   const parties = partyData[province] || [];
+  const results = parties.map(party => {
+    const profile = profiles.find(item => item.id === party.id);
+    return { party, score: profile ? calculateCompatibility(answers, weights, profile) : null };
+  }).sort((a, b) => (b.score?.compatibility ?? -1) - (a.score?.compatibility ?? -1));
 
   function toggle(option: string) {
     setAnswers(prev => {
@@ -88,9 +96,27 @@ export default function Home() {
           <p className="lead">Circunscripción: <b>{province}</b>. Has respondido {answered} de {qs.length} preguntas.</p>
           {parties.length ? (
             <div className="notice">
-              <b>Las candidaturas están identificadas, pero falta verificar y cargar sus programas.</b>
-              <p>No mostraremos porcentajes de compatibilidad hasta disponer de posiciones documentadas por tema y citas verificables. Así evitamos fabricar un ranking.</p>
-              <div className="party-chips">{parties.map(p => <span key={p.id}>{p.name}</span>)}</div>
+              <b>Comparación documental de candidaturas</b>
+              <p>Solo se calcula afinidad cuando existe una posición respaldada por una fuente identificable, una cita y una fecha de comprobación. La falta de información no cuenta como desacuerdo.</p>
+              <div className="party-results">
+                {results.map(({ party, score }) => (
+                  <div className="party-result" key={party.id}>
+                    <div className="party-result-name">{party.name}</div>
+                    {score && score.compatibility !== null ? (
+                      <div className="party-result-score">
+                        <b>{score.compatibility}%</b>
+                        <span>Cobertura documental: {score.coverage}% · {score.evidenceCount} evidencias</span>
+                      </div>
+                    ) : (
+                      <div className="party-result-pending">
+                        <b>Sin datos suficientes</b>
+                        <span>No hay posiciones verificadas para tus respuestas.</span>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+              <p className="smallprint">La cobertura indica qué proporción del peso de tus opciones seleccionadas puede compararse con evidencia documental. Un porcentaje de afinidad con cobertura baja debe interpretarse con cautela.</p>
             </div>
           ) : (
             <div className="notice"><b>Datos de candidaturas pendientes para {province}.</b><p>El cuestionario está disponible, pero todavía no se ha incorporado el listado oficial de candidaturas de esta circunscripción.</p></div>
