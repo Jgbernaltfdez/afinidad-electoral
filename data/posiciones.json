@@ -320,30 +320,6 @@
           "quote": "ampliar la prisión permanente revisable",
           "checkedAt": "2026-11-27"
         }
-      },
-      {
-        "questionId": "empleo",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Programa electoral VOX — resumen de RTVE del programa 29N",
-          "url": "https://www.rtve.es/noticias/20261121/programa-electoral-vox-29n/17314739.shtml",
-          "page": "21-11-2026",
-          "quote": "derogar la reforma laboral aprobada por el Gobierno de Sánchez",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "territorio",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Programa electoral VOX — Es sentido común",
-          "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
-          "page": "índice, pp. 5–7",
-          "quote": "Ceuta y Melilla; prioridad nacional; desregulación",
-          "checkedAt": "2026-11-27"
-        }
       }
     ]
   },
@@ -506,18 +482,6 @@
           "quote": "República Federal para alcanzar la democracia real",
           "checkedAt": "2026-11-27"
         }
-      },
-      {
-        "questionId": "exterior",
-        "optionId": "D",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
-          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
-          "page": "p. 155",
-          "quote": "seguridad humana frente al discurso belicista",
-          "checkedAt": "2026-11-27"
-        }
       }
     ]
   },
@@ -640,18 +604,6 @@
         }
       },
       {
-        "questionId": "territorio",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
-          "url": "https://frenteobrero.es/",
-          "page": "prioridad 9",
-          "quote": "unidad de España",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
         "questionId": "transporte",
         "optionId": "D",
         "stance": "support",
@@ -728,30 +680,6 @@
           "quote": "beneficios fiscales para aquellos arrendadores que alquilen viviendas",
           "checkedAt": "2026-11-27"
         }
-      },
-      {
-        "questionId": "territorio",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
-          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
-          "page": "pp. 17, 18",
-          "quote": "unidad nacional y modelo territorial",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "energia",
-        "optionId": "D",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
-          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
-          "page": "p. 29",
-          "quote": "energía",
-          "checkedAt": "2026-11-27"
-        }
       }
     ]
   },
@@ -792,30 +720,6 @@
           "url": "https://electosfera.es/2026/generales/pacma/",
           "page": "bloque medio ambiente",
           "quote": "Freno al cambio climático",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "sanidad",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
-          "url": "https://pacma.es/programa-electoral/",
-          "page": "programa 2026",
-          "quote": "defensa firme de lo público, especialmente de la sanidad",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "educacion",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
-          "url": "https://pacma.es/programa-electoral/",
-          "page": "programa 2026",
-          "quote": "defensa firme de lo público, especialmente de la educación",
           "checkedAt": "2026-11-27"
         }
       }
@@ -986,10 +890,10 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "D21 — programa electoral 2026, resumen de medidas",
-          "url": "https://electosfera.es/2026/generales/d21/",
-          "page": "bloque España Limpia",
-          "quote": "reducir los asesores políticos y combatir el enchufismo",
+          "sourceTitle": "AS — Programa electoral Democracia 21, propuestas y prioridades",
+          "url": "https://as.com/actualidad/politica/el-programa-electoral-de-democracia-21-en-las-elecciones-generales-del-29n-listas-candidatos-y-propuestas-f202611-n/",
+          "page": "resumen del programa",
+          "quote": "reducir un 90% los asesores políticos",
           "checkedAt": "2026-11-27"
         }
       }
@@ -1067,19 +971,7 @@
           "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
           "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
           "page": "pp. 37–38",
-          "quote": "La atención será universal",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "educacion",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
-          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
-          "page": "p. 45",
-          "quote": "Subirá la inversión pública en educación hasta al menos el 6 % del PIB",
+          "quote": "Aumentará la inversión sanitaria y la coordinación entre comunidades",
           "checkedAt": "2026-11-27"
         }
       },
