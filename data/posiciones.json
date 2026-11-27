@@ -166,5 +166,952 @@
         }
       }
     ]
+  },
+  {
+    "id": "PP",
+    "name": "Partido Popular",
+    "positions": [
+      {
+        "questionId": "economia",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — La Reconstrucción Nacional",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
+          "page": "p. 53",
+          "quote": "bajar la presión fiscal",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — extractos y página del programa",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/pp",
+          "page": "p. 53",
+          "quote": "construir un millón de viviendas con suelo público y privado",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "E",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — síntesis de propuestas con referencia al programa",
+          "url": "https://29nov.es/partidos/pp",
+          "page": "pp. 53–55",
+          "quote": "rebajar al 4 % el IVA de la primera vivienda y extender el aval público de hasta el 20 %",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — síntesis de propuestas con referencia al programa",
+          "url": "https://29nov.es/partidos/pp",
+          "page": "pp. 54–55",
+          "quote": "recuperar en 48 horas, con orden judicial, una vivienda ocupada",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — síntesis de propuestas con referencia al programa",
+          "url": "https://29nov.es/partidos/pp",
+          "page": "p. 56",
+          "quote": "prohibir las regularizaciones masivas de inmigrantes",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "instituciones",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — síntesis de propuestas con referencia al programa",
+          "url": "https://29nov.es/partidos/pp",
+          "page": "p. 91",
+          "quote": "que los jueces elijan a los vocales judiciales del CGPJ",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "seguridad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PP 2026 — síntesis de propuestas con referencia al programa",
+          "url": "https://29nov.es/partidos/pp",
+          "page": "p. 101",
+          "quote": "endurecer penas",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "VOX",
+    "name": "Vox",
+    "positions": [
+      {
+        "questionId": "economia",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — Es sentido común",
+          "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+          "page": "p. 9",
+          "quote": "reducción sistemática de todos los impuestos",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — Es sentido común",
+          "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+          "page": "p. 15",
+          "quote": "Prohibición de las regularizaciones masivas",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — Es sentido común",
+          "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+          "page": "p. 23",
+          "quote": "derogar la Ley de Vivienda",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "energia",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — Es sentido común",
+          "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+          "page": "p. 11",
+          "quote": "recuperar el plan nuclear y derogar el calendario de cierre de las centrales",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "seguridad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — resumen de RTVE del programa 29N",
+          "url": "https://www.rtve.es/noticias/20261121/programa-electoral-vox-29n/17314739.shtml",
+          "page": "21-11-2026",
+          "quote": "ampliar la prisión permanente revisable",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — resumen de RTVE del programa 29N",
+          "url": "https://www.rtve.es/noticias/20261121/programa-electoral-vox-29n/17314739.shtml",
+          "page": "21-11-2026",
+          "quote": "derogar la reforma laboral aprobada por el Gobierno de Sánchez",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "territorio",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral VOX — Es sentido común",
+          "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+          "page": "índice, pp. 5–7",
+          "quote": "Ceuta y Melilla; prioridad nacional; desregulación",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "FA",
+    "name": "Frente Amplio",
+    "positions": [
+      {
+        "questionId": "vivienda",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "toparemos las rentas vinculándolas al 25 % de los ingresos del hogar",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "un gran parque público de 1,5 millones de viviendas en alquiler asequible",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "G",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "pondremos freno definitivo a los pisos turísticos",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "blindaremos por ley un Salario Mínimo Interprofesional equivalente al 60 % del salario medio neto",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "jornada laboral máxima de 32 horas semanales sin reducción salarial",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "pensiones",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "revalorizaremos las pensiones públicas por mandato constitucional",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "sanidad 100 % pública, universal y de gestión directa",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "educacion",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "una educación pública blindada con el 7 % del PIB",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 149",
+          "quote": "procedimientos estables de regularización",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "energia",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 10",
+          "quote": "transición ecológica justa",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "energia",
+        "optionId": "G",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 79",
+          "quote": "gestión de residuos, reparación y reutilización",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "derechos",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 145",
+          "quote": "despliegue de la Ley Trans e identidades no binarias",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "territorio",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 167",
+          "quote": "República Federal para alcanzar la democracia real",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "exterior",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Frente Amplio — Un programa como una casa",
+          "url": "https://ep01.epimg.net/estaticos/arc/2026/11/elecciones/20261129_01_comparador_programas/documents/programa_frente_amplio_29n.pdf",
+          "page": "p. 155",
+          "quote": "seguridad humana frente al discurso belicista",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SALF",
+    "name": "Se Acabó La Fiesta",
+    "positions": [
+      {
+        "questionId": "vivienda",
+        "optionId": "E",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Contrato electoral SALF 29N",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+          "page": "p. 5",
+          "quote": "Tu primera vivienda, un 35 % más barata",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "economia",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Contrato electoral SALF 29N",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+          "page": "p. 12",
+          "quote": "Mínimo exento de 35.000 euros",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Contrato electoral SALF 29N",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+          "page": "p. 17",
+          "quote": "Orden de expulsión = expulsión. En 48 horas.",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "seguridad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Contrato electoral SALF 29N",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+          "page": "p. 8",
+          "quote": "cumplimiento íntegro de penas",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Contrato electoral SALF 29N",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+          "page": "compromiso 6",
+          "quote": "Una central de compras. 60 días para operarte.",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "instituciones",
+        "optionId": "E",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Contrato electoral SALF 29N — resumen de propuestas con páginas",
+          "url": "https://29nresponde.es/es/programa/salf/",
+          "page": "pp. 26, 28, 30",
+          "quote": "hacer imprescriptibles los delitos de corrupción",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "FO",
+    "name": "Frente Obrero",
+    "positions": [
+      {
+        "questionId": "inmigracion",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
+          "url": "https://frenteobrero.es/",
+          "page": "prioridades 2 y 6",
+          "quote": "fin del modelo migratorio actual; no a la regularización masiva",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
+          "url": "https://frenteobrero.es/",
+          "page": "prioridad 4",
+          "quote": "Vivienda pública, lucha contra fondos buitre y especuladores",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "E",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
+          "url": "https://frenteobrero.es/",
+          "page": "prioridad 5",
+          "quote": "Reindustrializar España, defender a los trabajadores",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "territorio",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
+          "url": "https://frenteobrero.es/",
+          "page": "prioridad 9",
+          "quote": "unidad de España",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "transporte",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
+          "url": "https://frenteobrero.es/",
+          "page": "prioridad 10",
+          "quote": "En defensa del campo español",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "derechos",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Frente Obrero — Programa electoral 2026, web oficial",
+          "url": "https://frenteobrero.es/",
+          "page": "prioridad 8",
+          "quote": "Derogación de sus leyes de género",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "FE-JONS",
+    "name": "Falange Española de las JONS",
+    "positions": [
+      {
+        "questionId": "inmigracion",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
+          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+          "page": "p. 7",
+          "quote": "política de fronteras cerradas y exhaustivamente controladas",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "E",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
+          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+          "page": "p. 9",
+          "quote": "Retirada del acceso a ayudas sociales para todo extranjero",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
+          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+          "page": "p. 12",
+          "quote": "crear un parque de vivienda social",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
+          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+          "page": "p. 12",
+          "quote": "beneficios fiscales para aquellos arrendadores que alquilen viviendas",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "territorio",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
+          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+          "page": "pp. 17, 18",
+          "quote": "unidad nacional y modelo territorial",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "energia",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral FE de las JONS 29N 2026",
+          "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+          "page": "p. 29",
+          "quote": "energía",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "PACMA",
+    "name": "Partido Animalista con el Medio Ambiente",
+    "positions": [
+      {
+        "questionId": "proteccion",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
+          "url": "https://pacma.es/programa-electoral/",
+          "page": "programa 2026",
+          "quote": "endurecimiento real de las penas por maltrato animal",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "proteccion",
+        "optionId": "C",
+        "stance": "oppose",
+        "evidence": {
+          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
+          "url": "https://pacma.es/programa-electoral/",
+          "page": "programa 2026",
+          "quote": "prohibición de los festejos taurinos y la caza",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "energia",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
+          "url": "https://electosfera.es/2026/generales/pacma/",
+          "page": "bloque medio ambiente",
+          "quote": "Freno al cambio climático",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
+          "url": "https://pacma.es/programa-electoral/",
+          "page": "programa 2026",
+          "quote": "defensa firme de lo público, especialmente de la sanidad",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "educacion",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "PACMA — Vota por lo que crees, programa electoral 29N",
+          "url": "https://pacma.es/programa-electoral/",
+          "page": "programa 2026",
+          "quote": "defensa firme de lo público, especialmente de la educación",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "PH",
+    "name": "Partido Humanista",
+    "positions": [
+      {
+        "questionId": "empleo",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Partido Humanista 29N 2026",
+          "url": "https://xn--escao351-g3a.es/elecciones/programas/partido-humanista",
+          "page": "Trabajo y empresa, medida 2",
+          "quote": "Reducción de la jornada laboral a 30 horas semanales",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Partido Humanista 29N 2026",
+          "url": "https://xn--escao351-g3a.es/elecciones/programas/partido-humanista",
+          "page": "Vivienda, medida 2",
+          "quote": "Regla del 30%: Tope legal de alquiler indexado",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Partido Humanista 29N 2026",
+          "url": "https://xn--escao351-g3a.es/elecciones/programas/partido-humanista",
+          "page": "Vivienda, medida 1",
+          "quote": "Plan para un Parque Público de Alquiler Social",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Partido Humanista 29N 2026",
+          "url": "https://xn--escao351-g3a.es/elecciones/programas/partido-humanista",
+          "page": "Sanidad, medida 1",
+          "quote": "Blindaje constitucional de la gestión directa del SNS",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "educacion",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Partido Humanista 29N 2026",
+          "url": "https://xn--escao351-g3a.es/elecciones/programas/partido-humanista",
+          "page": "Educación, medida 3",
+          "quote": "Extinción de conciertos y traspaso total de fondos a la escuela pública",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "IE",
+    "name": "Iustitia Europa",
+    "positions": [
+      {
+        "questionId": "instituciones",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Iustitia Europa — Contrato Electoral 29N, resumen con páginas",
+          "url": "https://tupartidocorrupto.com/elecciones/programas/iustitia-europa",
+          "page": "pp. 10–11",
+          "quote": "Consejo General del Poder Judicial elegido por los jueces",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "instituciones",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Iustitia Europa — Contrato Electoral 29N, resumen con páginas",
+          "url": "https://tupartidocorrupto.com/elecciones/programas/iustitia-europa",
+          "page": "p. 9",
+          "quote": "referéndums vinculantes",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "exterior",
+        "optionId": "G",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Iustitia Europa — Contrato Electoral 29N, resumen con páginas",
+          "url": "https://tupartidocorrupto.com/elecciones/programas/iustitia-europa",
+          "page": "pp. 13–14",
+          "quote": "recuperar la soberanía y reclamar la neutralidad y la paz",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "instituciones",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Iustitia Europa — Contrato Electoral 29N, resumen con páginas",
+          "url": "https://tupartidocorrupto.com/elecciones/programas/iustitia-europa",
+          "page": "pp. 10–11",
+          "quote": "límite de dos mandatos",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "D21",
+    "name": "Democracia para el Siglo 21",
+    "positions": [
+      {
+        "questionId": "vivienda",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "D21 — programa electoral 2026, medidas con referencia al PDF",
+          "url": "https://electosfera.es/2026/generales/d21/medidas/?pal=gasto",
+          "page": "medida 22; PDF pp. 19–20",
+          "quote": "Se limitarán de forma general y temporal los alquileres en zonas tensionadas",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "D21 — programa electoral 2026, medidas con referencia al PDF",
+          "url": "https://electosfera.es/2026/generales/d21/medidas/?pal=gasto",
+          "page": "medida 26",
+          "quote": "Fondo Público Soberano de Vivienda",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "D21 — programa electoral 2026, medidas con referencia al PDF",
+          "url": "https://electosfera.es/2026/generales/d21/medidas/?pal=gasto",
+          "page": "medida 70",
+          "quote": "Los quirófanos públicos abrirán por las tardes",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "instituciones",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "D21 — programa electoral 2026, resumen de medidas",
+          "url": "https://electosfera.es/2026/generales/d21/",
+          "page": "bloque España Limpia",
+          "quote": "reducir los asesores políticos y combatir el enchufismo",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "MUNDO-JUSTO",
+    "name": "Por un Mundo Más Justo",
+    "positions": [
+      {
+        "questionId": "vivienda",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "p. 8",
+          "quote": "regulará el alquiler privado con un precio de referencia",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "p. 7",
+          "quote": "destinará los inmuebles públicos infrautilizados a vivienda social y asequible",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "p. 29",
+          "quote": "Reducirá la jornada hasta las 35 horas semanales sin reducción salarial",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "economia",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "pp. 26–27",
+          "quote": "equiparar la tributación de las rentas del capital y del trabajo",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "pensiones",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "p. 24",
+          "quote": "garantizar que no pierdan poder adquisitivo",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "pp. 37–38",
+          "quote": "La atención será universal",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "educacion",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "p. 45",
+          "quote": "Subirá la inversión pública en educación hasta al menos el 6 % del PIB",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "p. 51",
+          "quote": "abrirá vías legales y seguras y permisos de trabajo en origen",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "exterior",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Por un Mundo Más Justo — Programa electoral 29N 2026, extractos",
+          "url": "https://www.intenciondevoto.com/elecciones/generales/2026-29n/programas/mj",
+          "page": "política exterior",
+          "quote": "cooperación internacional y ayuda al desarrollo",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "PCTE",
+    "name": "Partido Comunista de los Trabajadores de España",
+    "positions": []
   }
 ]
