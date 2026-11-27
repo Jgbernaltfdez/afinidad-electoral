@@ -59,3 +59,8 @@ Abre http://localhost:3000
 - Completar más materias y propuestas por candidatura.
 - Localizar un programa electoral específico de PCTE para el 29N o mantenerlo sin puntuación.
 - Importar y documentar candidaturas de las otras 51 circunscripciones.
+
+
+## Auditoría documental
+
+Consulta [`data/auditoria-2026-11-27.md`](./data/auditoria-2026-11-27.md) para el alcance, criterios, fuentes oficiales, exclusiones y limitaciones de la revisión de programas electorales de Madrid.
