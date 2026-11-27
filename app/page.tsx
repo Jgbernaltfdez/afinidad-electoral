@@ -47,7 +47,7 @@ export default function Home() {
   const parties = partyData[province] || [];
   const results = parties.map(party => {
     const profile = profiles.find(item => item.id === party.id);
-    return { party, score: profile ? calculateCompatibility(answers, weights, profile) : null };
+    return { party, profile, score: profile ? calculateCompatibility(answers, weights, profile) : null };
   }).sort((a, b) => (b.score?.compatibility ?? -1) - (a.score?.compatibility ?? -1));
 
   function toggle(option: string) {
@@ -99,22 +99,48 @@ export default function Home() {
               <b>Comparación documental de candidaturas</b>
               <p>Solo se calcula afinidad cuando existe una posición respaldada por una fuente identificable, una cita y una fecha de comprobación. La falta de información no cuenta como desacuerdo.</p>
               <div className="party-results">
-                {results.map(({ party, score }) => (
-                  <div className="party-result" key={party.id}>
-                    <div className="party-result-name">{party.name}</div>
-                    {score && score.compatibility !== null ? (
-                      <div className="party-result-score">
-                        <b>{score.compatibility}%</b>
-                        <span>Cobertura documental: {score.coverage}% · {score.evidenceCount} evidencias</span>
+                {results.map(({ party, profile, score }) => {
+                  const matchedEvidence = (profile?.positions || []).filter(position =>
+                    (answers[position.questionId] || []).includes(position.optionId) &&
+                    position.stance !== "unknown" &&
+                    position.evidence?.sourceTitle && position.evidence?.url &&
+                    position.evidence?.quote && position.evidence?.checkedAt
+                  );
+                  return (
+                    <div className="party-result" key={party.id}>
+                      <div className="party-result-top">
+                        <div className="party-result-name">{party.name}</div>
+                        {score && score.compatibility !== null ? (
+                          <div className="party-result-score">
+                            <b>{score.compatibility}%</b>
+                            <span>Cobertura documental: {score.coverage}% · {score.evidenceCount} evidencias</span>
+                          </div>
+                        ) : (
+                          <div className="party-result-pending">
+                            <b>Sin datos suficientes</b>
+                            <span>No hay posiciones verificadas para tus respuestas.</span>
+                          </div>
+                        )}
                       </div>
-                    ) : (
-                      <div className="party-result-pending">
-                        <b>Sin datos suficientes</b>
-                        <span>No hay posiciones verificadas para tus respuestas.</span>
-                      </div>
-                    )}
-                  </div>
-                ))}
+                      {matchedEvidence.length > 0 && (
+                        <details className="party-evidence">
+                          <summary>Ver {matchedEvidence.length} evidencias de tus respuestas</summary>
+                          {matchedEvidence.map((position, index) => (
+                            <div className="evidence-item" key={position.questionId + position.optionId + index}>
+                              <b>{qs.find(q => q.id === position.questionId)?.title || position.questionId}</b>
+                              <p>“{position.evidence?.quote}”</p>
+                              <a href={position.evidence?.url} target="_blank" rel="noreferrer">
+                                {position.evidence?.sourceTitle}
+                                {position.evidence?.page ? ` · ${position.evidence.page}` : ""}
+                              </a>
+                              <span>Comprobado: {position.evidence?.checkedAt}</span>
+                            </div>
+                          ))}
+                        </details>
+                      )}
+                    </div>
+                  );
+                })}
               </div>
               <p className="smallprint">La cobertura indica qué proporción del peso de tus opciones seleccionadas puede compararse con evidencia documental. Un porcentaje de afinidad con cobertura baja debe interpretarse con cautela.</p>
             </div>
