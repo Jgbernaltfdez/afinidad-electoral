@@ -19,7 +19,7 @@ El registro de documentos, el tipo de fuente y las limitaciones de cobertura se 
 2. Cada entrada exige título de fuente, URL, cita, fecha de comprobación y, cuando se dispone, página o apartado.
 3. «support» significa que la propuesta respalda la opción concreta del cuestionario; «oppose» que la contradice explícitamente; «mixed» que la posición es mixta; «unknown» no puntúa.
 4. No se infieren posturas por etiquetas ideológicas, declaraciones genéricas o silencio del programa.
-5. Las fichas secundarias que resumen propuestas se identifican expresamente como extractos y no como citas literales de los PDF. Deben cotejarse con el documento primario antes de considerarse definitivas. Las ocho posiciones de Podemos ya remiten a su PDF oficial; el cotejo primario de los demás bloques prioritarios sigue pendiente.
+5. Las fichas secundarias que resumen propuestas se identifican expresamente como extractos y no como citas literales de los PDF. Deben cotejarse con el documento primario antes de considerarse definitivas. Las ocho posiciones de Podemos y las cuatro del Frente Amplio ya remiten a sus PDF oficiales; el cotejo primario de los demás bloques prioritarios sigue pendiente.
 
 ## Cálculo y transparencia
 
@@ -55,7 +55,7 @@ Abre http://localhost:3000
 
 ## Pendiente
 
-- Cotejo individual de las posiciones restantes contra los PDF oficiales (prioridad: PP, PSOE, VOX, Frente Amplio, SALF y D21).
+- Cotejo individual de las posiciones restantes contra los PDF oficiales (prioridad: PP, PSOE, VOX, SALF y D21).
 - Completar más materias y propuestas por candidatura.
 - Localizar un programa electoral específico de PCTE para el 29N o mantenerlo sin puntuación.
 - Importar y documentar candidaturas de las otras 51 circunscripciones.
