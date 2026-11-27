@@ -8,8 +8,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "pp. 48–49",
           "quote": "Elevar progresivamente hasta el 35 % el tipo máximo sobre rentas del capital superiores a 300.000 euros.",
           "checkedAt": "2026-11-27"
@@ -20,8 +20,8 @@
         "optionId": "D",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 37",
           "quote": "Fijar por ley el salario mínimo por encima del 60 % del salario medio.",
           "checkedAt": "2026-11-27"
@@ -32,8 +32,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 41",
           "quote": "Completar la reducción de jornada a 37,5 horas e incentivar el avance hacia las 35 horas sin pérdida salarial.",
           "checkedAt": "2026-11-27"
@@ -44,8 +44,8 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "pp. 27–28",
           "quote": "Movilizar el 1 % del PIB y constituir un parque público estatal de 100.000 viviendas.",
           "checkedAt": "2026-11-27"
@@ -56,8 +56,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 40",
           "quote": "Blindar el sistema público de pensiones y su revalorización conforme al IPC.",
           "checkedAt": "2026-11-27"
@@ -68,8 +68,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 49",
           "quote": "Financiación pública de la sanidad en torno al 7 % del PIB.",
           "checkedAt": "2026-11-27"
@@ -80,22 +80,10 @@
         "optionId": "G",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 92",
           "quote": "Reforzar el sistema público de acogida y asilo, con reasentamiento y visados humanitarios.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "seguridad",
-        "optionId": "D",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
-          "page": "p. 99",
-          "quote": "Nueva Ley de Seguridad Ciudadana con identificaciones sin discriminación y cámaras corporales.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -104,8 +92,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "pp. 65–66",
           "quote": "Alcanzar un 81 % de generación eléctrica renovable en 2030 y abandonar progresivamente los combustibles fósiles.",
           "checkedAt": "2026-11-27"
@@ -116,8 +104,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "pp. 77–79",
           "quote": "Medidas de igualdad entre mujeres y hombres y contra la feminización de la pobreza.",
           "checkedAt": "2026-11-27"
@@ -128,8 +116,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 102",
           "quote": "Ley Orgánica de Integridad Pública, Estrategia Nacional Anticorrupción y Agencia Independiente.",
           "checkedAt": "2026-11-27"
@@ -140,8 +128,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PSOE — extracto temático del programa oficial «La fuerza de seguir avanzando»",
-          "url": "https://politicareal.org/elecciones-29n/programas/psoe/",
+          "sourceTitle": "Programa oficial del PSOE — «La fuerza de seguir avanzando» (29N 2026)",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
           "page": "p. 107",
           "quote": "Alcanzar el objetivo del 0,7 % de la renta nacional bruta destinado a Ayuda Oficial al Desarrollo.",
           "checkedAt": "2026-11-27"
@@ -158,7 +146,7 @@
         "optionId": "D",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 40, medida 111",
           "quote": "Elevar el salario mínimo interprofesional hasta los 1.800 euros mensuales.",
@@ -170,7 +158,7 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 40, medida 113",
           "quote": "Reducir la jornada laboral sin reducir los salarios. Reduciremos la jornada laboral a 30 horas semanales durante la legislatura.",
@@ -182,7 +170,7 @@
         "optionId": "G",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "pp. 8–9, medidas 3 y 7",
           "quote": "Prohibición de la compra de casas que no sean para vivir; prohibición de los pisos turísticos.",
@@ -194,7 +182,7 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 88, medida 302",
           "quote": "Incrementaremos progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habitante y año.",
@@ -206,7 +194,7 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 79, medida 279",
           "quote": "Avanzaremos hacia una única red educativa de gestión pública directa, poniendo fin progresivamente a la privatización de la enseñanza y a la utilización de fondos públicos para financiar negocios privados.",
@@ -218,7 +206,7 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 55, medida 163",
           "quote": "Actualizar la definición de violencia machista para que recoja todas las formas de violencia contra las mujeres.",
@@ -230,7 +218,7 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 94, medida 316",
           "quote": "Acelerar la transición hacia un modelo energético limpio y sostenible y reducir las emisiones de gases de efecto invernadero.",
@@ -242,7 +230,7 @@
         "optionId": "D",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
+          "sourceTitle": "Programa oficial de Podemos — «Así de básico: paz, casa y trabajo» (29N 2026)",
           "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
           "page": "p. 27, medida 72",
           "quote": "Revertir por completo el rearme y destinar esos recursos a financiar los servicios públicos, el derecho a la vivienda y la paz.",
@@ -260,8 +248,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 60–61",
           "quote": "Deflactar el IRPF, reducir el IRPF a jóvenes y aplicar IVA del 0 % a alimentos básicos.",
           "checkedAt": "2026-11-27"
@@ -272,8 +260,8 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 59",
           "quote": "Bonificar cotizaciones empresariales por el primer trabajador y el segundo.",
           "checkedAt": "2026-11-27"
@@ -284,8 +272,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 53",
           "quote": "Construcción de un millón de viviendas, nueva Ley del Suelo y licencias en tres meses.",
           "checkedAt": "2026-11-27"
@@ -296,8 +284,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "pp. 54–55",
           "quote": "IVA de primera vivienda al 4 % para menores de 40 años y aval público de hasta el 20 %.",
           "checkedAt": "2026-11-27"
@@ -308,8 +296,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 55",
           "quote": "Recuperación de la vivienda ocupada en 48 horas por orden judicial.",
           "checkedAt": "2026-11-27"
@@ -320,8 +308,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 42",
           "quote": "Las pensiones mantendrán su poder adquisitivo y subirán cada año con el IPC.",
           "checkedAt": "2026-11-27"
@@ -332,8 +320,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 69",
           "quote": "Pacto de Estado por la Sanidad Pública y 4.500 médicos más en Atención Primaria.",
           "checkedAt": "2026-11-27"
@@ -344,8 +332,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "pp. 21–22",
           "quote": "Prohibición de regularizaciones masivas y devolución de quienes entren irregularmente.",
           "checkedAt": "2026-11-27"
@@ -356,8 +344,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 20",
           "quote": "Ampliar la prisión permanente revisable a determinados delitos sexuales y homicidios.",
           "checkedAt": "2026-11-27"
@@ -368,8 +356,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 71",
           "quote": "Eliminar el calendario de cierre de las centrales nucleares y tramitar su extensión.",
           "checkedAt": "2026-11-27"
@@ -380,8 +368,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 30",
           "quote": "Que los jueces elijan a los doce vocales judiciales del CGPJ.",
           "checkedAt": "2026-11-27"
@@ -392,8 +380,8 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "PP — extracto temático del programa oficial «La Reconstrucción Nacional»",
-          "url": "https://politicareal.org/elecciones-29n/programas/pp/",
+          "sourceTitle": "Programa oficial del Partido Popular — «La Reconstrucción Nacional» (29N 2026)",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
           "page": "p. 26",
           "quote": "Ley de programación y financiación de la defensa con inversión plurianual.",
           "checkedAt": "2026-11-27"
@@ -410,22 +398,10 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "economía e impuestos",
           "quote": "Rebajas del IRPF, del IVA y del Impuesto de Sociedades.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "empleo",
-        "optionId": "C",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
-          "page": "empleo",
-          "quote": "Cuota cero para autónomos que no alcancen el SMI y cuota progresiva desde 50 euros.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -434,8 +410,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "vivienda",
           "quote": "IVA del 0 % en primera vivienda nueva y bonificación del 100 % del ITP en segunda mano.",
           "checkedAt": "2026-11-27"
@@ -446,8 +422,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "vivienda",
           "quote": "Desalojo de la ocupación en menos de 24 horas y derogación de la Ley de Vivienda.",
           "checkedAt": "2026-11-27"
@@ -458,8 +434,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "educación",
           "quote": "Libre elección de centro educativo.",
           "checkedAt": "2026-11-27"
@@ -470,8 +446,8 @@
         "optionId": "G",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "educación",
           "quote": "Currículo común, EVAU única y educación en español en todo el territorio.",
           "checkedAt": "2026-11-27"
@@ -482,8 +458,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "inmigración",
           "quote": "Prohibir regularizaciones masivas, suprimir el arraigo y repatriar a inmigrantes en situación irregular.",
           "checkedAt": "2026-11-27"
@@ -494,8 +470,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "seguridad y justicia",
           "quote": "Ampliar la prisión permanente revisable y rebajar la edad de responsabilidad penal.",
           "checkedAt": "2026-11-27"
@@ -506,8 +482,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "medio ambiente y energía",
           "quote": "Recuperar el plan nuclear y derogar el calendario de cierre de centrales.",
           "checkedAt": "2026-11-27"
@@ -518,8 +494,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "instituciones",
           "quote": "Que los jueces elijan a los doce vocales judiciales del CGPJ.",
           "checkedAt": "2026-11-27"
@@ -530,8 +506,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "instituciones",
           "quote": "Los condenados por corrupción responderán con su patrimonio y se prohibirán indultos por corrupción.",
           "checkedAt": "2026-11-27"
@@ -542,8 +518,8 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "VOX — extracto de las propuestas oficiales «Es sentido común»",
-          "url": "https://politicareal.org/elecciones-29n/programas/vox/",
+          "sourceTitle": "Propuestas oficiales de VOX — «Es sentido común» (29N 2026)",
+          "url": "https://www.voxespana.es/actualidad/es-sentido-comun-estas-son-las-medidas-de-vox-para-el-29n-20261112",
           "page": "exterior y defensa",
           "quote": "Aumentar la inversión en Defensa y reforzar la protección fronteriza.",
           "checkedAt": "2026-11-27"
@@ -560,7 +536,7 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "sourceTitle": "Programa oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
           "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
           "page": "p. 10, introducción",
           "quote": "El nuevo esfuerzo tributario recaerá sobre las grandes corporaciones, el sector financiero y las grandes fortunas mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos, mientras bajamos el IRPF a los salarios más bajos.",
@@ -572,7 +548,7 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "sourceTitle": "Programa oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
           "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
           "page": "pp. 13–14, apartado 1.1",
           "quote": "Asignación presupuestaria permanente del 1 % del PIB anual para la creación de un gran parque público y asequible de vivienda mayoritariamente en alquiler.",
@@ -584,7 +560,7 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "sourceTitle": "Programa oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
           "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
           "page": "p. 63, apartado 4.3",
           "quote": "Pensión mínima igual al SMI; ninguna pensión pública será inferior al salario mínimo interprofesional.",
@@ -596,7 +572,7 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "sourceTitle": "Programa oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
           "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
           "page": "p. 73, apartado 5.2",
           "quote": "Pacto de Estado por el Tren y operador público ferroviario único; más inversión en plantilla y mantenimiento y refuerzo de las Cercanías.",
@@ -614,8 +590,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "pp. 12–13",
           "quote": "Mínimo exento de IRPF de 35.000 euros, rebaja del Impuesto de Sociedades y supresión de Patrimonio.",
           "checkedAt": "2026-11-27"
@@ -626,8 +602,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "pp. 5–6",
           "quote": "Primera vivienda con ITP y AJD al 0 %, IVA del 4 % devuelto y aval público del 20 % de la entrada.",
           "checkedAt": "2026-11-27"
@@ -638,8 +614,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 5",
           "quote": "Desalojo policial de ocupantes en 48 horas con denuncia y título de propiedad.",
           "checkedAt": "2026-11-27"
@@ -650,8 +626,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 20",
           "quote": "Revalorizar las pensiones con el IPC y prohibir recortes con rango constitucional.",
           "checkedAt": "2026-11-27"
@@ -662,8 +638,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 20",
           "quote": "Pensión mínima de 1.000 euros en 14 pagas con 35 años cotizados.",
           "checkedAt": "2026-11-27"
@@ -674,8 +650,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 22",
           "quote": "Aumentar camas y UCI, subir salarios del personal sanitario y fijar plazos máximos de atención.",
           "checkedAt": "2026-11-27"
@@ -686,8 +662,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 22",
           "quote": "Si se superan los plazos máximos, el paciente podrá elegir centro público o privado con cargo a la sanidad pública.",
           "checkedAt": "2026-11-27"
@@ -698,8 +674,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 33",
           "quote": "Cheque escolar válido en centros públicos, concertados y privados.",
           "checkedAt": "2026-11-27"
@@ -710,8 +686,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "pp. 17–18",
           "quote": "Ejecutar órdenes de expulsión y prohibir por ley orgánica las regularizaciones masivas.",
           "checkedAt": "2026-11-27"
@@ -722,8 +698,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 19",
           "quote": "Exigir cinco años de residencia legal y cotización para determinadas prestaciones y vivienda pública.",
           "checkedAt": "2026-11-27"
@@ -734,8 +710,8 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 8",
           "quote": "Construir una prisión de máxima seguridad para delitos violentos graves y multirreincidencia.",
           "checkedAt": "2026-11-27"
@@ -746,8 +722,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "pp. 9–10",
           "quote": "Aumentar efectivos policiales, jueces y fiscales y establecer juicios rápidos.",
           "checkedAt": "2026-11-27"
@@ -758,8 +734,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 25",
           "quote": "Delitos de corrupción de cargos públicos imprescriptibles, sin indulto y con responsabilidad civil agravada.",
           "checkedAt": "2026-11-27"
@@ -770,8 +746,8 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 3",
           "quote": "Reducir ministerios, altos cargos, asesores y entes estatales.",
           "checkedAt": "2026-11-27"
@@ -782,8 +758,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 25",
           "quote": "Delitos de corrupción de cargos públicos imprescriptibles, sin indulto y con responsabilidad civil agravada.",
           "checkedAt": "2026-11-27"
@@ -794,8 +770,8 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 29",
           "quote": "Limitar a 15 años los cargos públicos remunerados.",
           "checkedAt": "2026-11-27"
@@ -806,8 +782,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "SALF — extracto del «Contrato Electoral Simplificado. Generales 2026»",
-          "url": "https://politicareal.org/elecciones-29n/programas/se-acabo-la-fiesta/",
+          "sourceTitle": "Programa oficial de SALF — «Contrato Electoral Simplificado. Generales 2026»",
+          "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
           "page": "p. 35",
           "quote": "Referéndum para renegociar la relación con la UE y, si fracasa, un segundo referéndum de salida.",
           "checkedAt": "2026-11-27"
@@ -1106,22 +1082,10 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
           "page": "medida 22; bloque Vivienda",
           "quote": "Limitar temporalmente los alquileres en zonas tensionadas.",
-          "checkedAt": "2026-11-27"
-        }
-      },
-      {
-        "questionId": "sanidad",
-        "optionId": "A",
-        "stance": "support",
-        "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
-          "page": "bloque Sanidad",
-          "quote": "Abrir quirófanos públicos por las tardes para reducir las listas de espera.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -1130,8 +1094,8 @@
         "optionId": "B",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
           "page": "bloque España Limpia",
           "quote": "Reducir la influencia política en la elección del Consejo General del Poder Judicial.",
           "checkedAt": "2026-11-27"
@@ -1142,8 +1106,8 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
           "page": "bloque España Limpia",
           "quote": "Reducir un 90 % los asesores políticos.",
           "checkedAt": "2026-11-27"
@@ -1154,8 +1118,8 @@
         "optionId": "E",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
           "page": "bloque España Limpia",
           "quote": "Reforzar la lucha anticorrupción y hacer imprescriptibles los delitos de corrupción.",
           "checkedAt": "2026-11-27"
@@ -1166,10 +1130,22 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "D21 — medidas del programa oficial «La España que merecemos», índice documental",
-          "url": "https://electosfera.es/2026/generales/d21/",
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
           "page": "bloque España Limpia",
           "quote": "Limitar los mandatos y establecer un máximo de ocho años para ejercer el mismo cargo.",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
+          "page": "p. 10 (PDF), evaluación de políticas y programas de gasto",
+          "quote": "Evaluación pública de la eficacia, el impacto y el coste de las políticas y programas de gasto; resultados publicados y utilizados para decidir su continuidad o modificación.",
           "checkedAt": "2026-11-27"
         }
       }
