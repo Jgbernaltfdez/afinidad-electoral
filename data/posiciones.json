@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "partyId": "PSOE",
+    "partyName": "Partido Socialista Obrero Español",
+    "positions": [
+      {
+        "questionId": "vivienda",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral PSOE 29N26",
+          "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+          "page": "31",
+          "quote": "Congelar temporalmente las rentas que superen los índices de referencia",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "PSOE — Un programa para seguir gobernando para la mayoría",
+          "url": "https://www.psoe.es/el-socialista/un-programa-para-seguir-gobernando-para-la-mayoria/",
+          "page": "Apartado de empleo y salarios",
+          "quote": "Blindaremos el SMI por ley por encima del 60% del salario medio",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "pensiones",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "PSOE — Pedro Sánchez presenta los compromisos del programa electoral",
+          "url": "https://www.psoe.es/actualidad/noticias-actualidad/pedro-sanchez-el-29n-haremos-un-referendum-en-favor-de-la-buena-politica-frente-a-la-mala-educacion-de-la-derecha-y-la-ultraderecha/",
+          "page": "Compromisos en el programa electoral",
+          "quote": "blindar en la Constitución la revalorización de las pensiones",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  },
+  {
+    "partyId": "PODEMOS",
+    "partyName": "Podemos",
+    "positions": [
+      {
+        "questionId": "vivienda",
+        "optionId": "B",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Vivienda",
+          "quote": "reducir por ley un 40 por ciento los precios de los alquileres",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "vivienda",
+        "optionId": "G",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Vivienda",
+          "quote": "prohibir los pisos turísticos y la compra de casas que no sean para vivir",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "economia",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Economía y precios",
+          "quote": "aumentar los impuestos a las grandes fortunas, la banca y las empresas energéticas",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Podemos 29N — Paz, casa y trabajo",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "41",
+          "quote": "Elevar el salario mínimo interprofesional hasta los 1.800 euros mensuales",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "empleo",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa electoral Podemos 29N — Paz, casa y trabajo",
+          "url": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "page": "41",
+          "quote": "Reducir la jornada laboral sin reducir los salarios",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "inmigracion",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Migración",
+          "quote": "facilitar la regularización de las personas migrantes, mediante un procedimiento permanente",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "exterior",
+        "optionId": "D",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Paz y política exterior",
+          "quote": "revertir el aumento del gasto militar",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "derechos",
+        "optionId": "C",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Derechos sociales",
+          "quote": "avanzar en los derechos LGTBIQA+ y la protección contra la LGTBIfobia",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "derechos",
+        "optionId": "F",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Derechos sociales",
+          "quote": "blindar el derecho al aborto",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "energia",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "El Mirón de Soria — propuestas del programa electoral de Podemos 29N",
+          "url": "https://elmirondesoria.es/nacional/politica/paz-casa-y-trabajo-vertebran-las-propuestas-del-programa-electoral-de-podemos",
+          "page": "Apartado Medio ambiente y transición ecológica",
+          "quote": "acelerar la transición ecológica, impulsar las energías renovables y proteger los recursos naturales",
+          "checkedAt": "2026-11-27"
+        }
+      }
+    ]
+  }
+]
