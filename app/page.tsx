@@ -128,7 +128,7 @@ export default function Home() {
                           {matchedEvidence.map((position, index) => (
                             <div className="evidence-item" key={position.questionId + position.optionId + index}>
                               <b>{qs.find(q => q.id === position.questionId)?.title || position.questionId}</b>
-                              <p>“{position.evidence?.quote}”</p>
+                              <p>{position.evidence?.quote}</p>
                               <a href={position.evidence?.url} target="_blank" rel="noreferrer">
                                 {position.evidence?.sourceTitle}
                                 {position.evidence?.page ? ` · ${position.evidence.page}` : ""}
