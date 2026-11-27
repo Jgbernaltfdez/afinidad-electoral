@@ -1,0 +1,74 @@
+{
+  "Madrid": [
+    {
+      "id": "FO",
+      "name": "Frente Obrero",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "PSOE",
+      "name": "Partido Socialista Obrero Español",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "FE-JONS",
+      "name": "Falange Española de las JONS",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "VOX",
+      "name": "Vox",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "PCTE",
+      "name": "Partido Comunista de los Trabajadores de España",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "PH",
+      "name": "Partido Humanista",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "D21",
+      "name": "Democracia para el Siglo 21",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "IE",
+      "name": "Iustitia Europa",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "MUNDO-JUSTO",
+      "name": "Por un Mundo Más Justo",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "SALF",
+      "name": "Se Acabó La Fiesta",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "PP",
+      "name": "Partido Popular",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "PACMA",
+      "name": "Partido Animalista con el Medio Ambiente",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "FA",
+      "name": "Frente Amplio",
+      "source": "BOE-A-2026-23103"
+    },
+    {
+      "id": "PODEMOS",
+      "name": "Podemos",
+      "source": "BOE-A-2026-23103"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "economia",
+    "title": "Economía e impuestos",
+    "weight": 12,
+    "prompt": "¿Qué modelo económico y fiscal prefieres?",
+    "options": [
+      [
+        "A",
+        "Reducir impuestos de forma general, especialmente a empresas, autónomos y rentas medias."
+      ],
+      [
+        "B",
+        "Mantener una fiscalidad progresiva, aumentando la contribución de las rentas y patrimonios más altos."
+      ],
+      [
+        "C",
+        "Reducir impuestos a las clases medias y bajas, manteniendo una fiscalidad elevada para grandes patrimonios."
+      ],
+      [
+        "D",
+        "Simplificar radicalmente el sistema fiscal y reducir el gasto y las estructuras administrativas."
+      ],
+      [
+        "E",
+        "Priorizar la inversión pública y los servicios sociales aunque implique mantener o aumentar la presión fiscal."
+      ],
+      [
+        "F",
+        "No tengo una preferencia clara."
+      ]
+    ]
+  },
+  {
+    "id": "empleo",
+    "title": "Empleo y modelo laboral",
+    "weight": 9,
+    "prompt": "¿Qué medidas te parecen más adecuadas?",
+    "options": [
+      [
+        "A",
+        "Flexibilizar la contratación y facilitar el despido para favorecer la creación de empleo."
+      ],
+      [
+        "B",
+        "Reforzar los derechos laborales, la negociación colectiva y la estabilidad contractual."
+      ],
+      [
+        "C",
+        "Reducir las cotizaciones sociales y los costes de contratación para las empresas."
+      ],
+      [
+        "D",
+        "Subir el salario mínimo y reforzar las garantías de los trabajadores."
+      ],
+      [
+        "E",
+        "Impulsar la formación profesional, la productividad y la modernización industrial."
+      ],
+      [
+        "F",
+        "Reducir la jornada laboral sin reducir los salarios."
+      ],
+      [
+        "G",
+        "Ninguna de las anteriores."
+      ]
+    ]
+  },
+  {
+    "id": "vivienda",
+    "title": "Vivienda",
+    "weight": 10,
+    "prompt": "¿Qué políticas apoyarías?",
+    "options": [
+      [
+        "A",
+        "Liberalizar suelo y facilitar la construcción para aumentar la oferta y reducir precios."
+      ],
+      [
+        "B",
+        "Limitar los precios del alquiler en las zonas tensionadas."
+      ],
+      [
+        "C",
+        "Construir un gran parque público de vivienda en alquiler."
+      ],
+      [
+        "D",
+        "Ofrecer incentivos fiscales a propietarios para que alquilen sus viviendas."
+      ],
+      [
+        "E",
+        "Facilitar la compra mediante avales, ayudas y reducción de impuestos."
+      ],
+      [
+        "F",
+        "Combatir la ocupación ilegal y reforzar la seguridad jurídica de los propietarios."
+      ],
+      [
+        "G",
+        "Limitar los pisos turísticos y la compra especulativa de viviendas."
+      ]
+    ]
+  },
+  {
+    "id": "pensiones",
+    "title": "Pensiones y jubilación",
+    "weight": 6,
+    "prompt": "¿Cómo debería abordarse el sistema de pensiones?",
+    "options": [
+      [
+        "A",
+        "Garantizar el poder adquisitivo de las pensiones públicas mediante su actualización con el IPC."
+      ],
+      [
+        "B",
+        "Incentivar los planes privados de pensiones y el ahorro individual."
+      ],
+      [
+        "C",
+        "Aumentar las cotizaciones de las rentas más altas y de las empresas para financiar el sistema."
+      ],
+      [
+        "D",
+        "Flexibilizar la edad de jubilación, incentivando trabajar más años voluntariamente."
+      ],
+      [
+        "E",
+        "Reducir el gasto público en pensiones y reformar el sistema para garantizar su sostenibilidad."
+      ],
+      [
+        "F",
+        "Aumentar especialmente las pensiones mínimas y no contributivas."
+      ]
+    ]
+  },
+  {
+    "id": "sanidad",
+    "title": "Sanidad",
+    "weight": 8,
+    "prompt": "¿Qué modelo sanitario prefieres?",
+    "options": [
+      [
+        "A",
+        "Reforzar la sanidad pública con más inversión, personal e infraestructuras."
+      ],
+      [
+        "B",
+        "Aumentar la colaboración público-privada para reducir listas de espera."
+      ],
+      [
+        "C",
+        "Priorizar la gestión pública directa y reducir la externalización de servicios."
+      ],
+      [
+        "D",
+        "Dar mayor libertad de elección entre centros públicos y privados."
+      ],
+      [
+        "E",
+        "Mejorar la atención primaria y la salud mental, aunque haya que reducir otras partidas."
+      ],
+      [
+        "F",
+        "Introducir reformas de gestión y evaluación para mejorar la eficiencia del sistema."
+      ]
+    ]
+  },
+  {
+    "id": "educacion",
+    "title": "Educación",
+    "weight": 8,
+    "prompt": "¿Qué modelo educativo te convence más?",
+    "options": [
+      [
+        "A",
+        "Reforzar la educación pública y reducir progresivamente la financiación pública de centros privados concertados."
+      ],
+      [
+        "B",
+        "Garantizar la libertad de elección de centro, incluyendo la educación concertada."
+      ],
+      [
+        "C",
+        "Aumentar la exigencia académica, la autoridad del profesorado y la disciplina."
+      ],
+      [
+        "D",
+        "Adaptar más la educación a las necesidades individuales, con mayor flexibilidad curricular."
+      ],
+      [
+        "E",
+        "Reforzar la Formación Profesional y su conexión con las empresas."
+      ],
+      [
+        "F",
+        "Dar mayor autonomía a los centros y a las comunidades autónomas."
+      ],
+      [
+        "G",
+        "Reforzar la educación común en todo el territorio nacional."
+      ]
+    ]
+  },
+  {
+    "id": "inmigracion",
+    "title": "Inmigración",
+    "weight": 7,
+    "prompt": "¿Qué política migratoria apoyarías?",
+    "options": [
+      [
+        "A",
+        "Facilitar la inmigración regular para cubrir necesidades laborales y demográficas."
+      ],
+      [
+        "B",
+        "Endurecer los controles fronterizos y agilizar las expulsiones de inmigrantes en situación irregular."
+      ],
+      [
+        "C",
+        "Vincular la inmigración laboral a las necesidades reales del mercado de trabajo."
+      ],
+      [
+        "D",
+        "Facilitar la regularización de quienes ya viven y trabajan en España."
+      ],
+      [
+        "E",
+        "Reforzar los controles sobre el acceso a determinadas prestaciones públicas."
+      ],
+      [
+        "F",
+        "Priorizar la cooperación internacional y las políticas de desarrollo en los países de origen."
+      ],
+      [
+        "G",
+        "Defender una política de acogida y protección de refugiados más amplia."
+      ]
+    ]
+  },
+  {
+    "id": "territorio",
+    "title": "Organización territorial",
+    "weight": 7,
+    "prompt": "¿Qué modelo territorial prefieres?",
+    "options": [
+      [
+        "A",
+        "Reforzar las competencias del Estado central y recuperar competencias autonómicas."
+      ],
+      [
+        "B",
+        "Mantener el Estado autonómico actual, mejorando su coordinación."
+      ],
+      [
+        "C",
+        "Avanzar hacia un Estado federal con mayor reconocimiento de las particularidades territoriales."
+      ],
+      [
+        "D",
+        "Defender una mayor descentralización y autonomía de las comunidades."
+      ],
+      [
+        "E",
+        "Reforzar la igualdad de derechos y servicios entre todos los españoles, independientemente de su comunidad."
+      ],
+      [
+        "F",
+        "Favorecer el derecho de autodeterminación de los territorios que lo reclamen."
+      ]
+    ]
+  },
+  {
+    "id": "energia",
+    "title": "Medio ambiente y energía",
+    "weight": 7,
+    "prompt": "¿Qué prioridades deberían guiar la política energética y climática?",
+    "options": [
+      [
+        "A",
+        "Acelerar la transición a energías renovables y reducir las emisiones, aunque tenga costes económicos a corto plazo."
+      ],
+      [
+        "B",
+        "Mantener y ampliar la energía nuclear como parte fundamental del sistema energético."
+      ],
+      [
+        "C",
+        "Priorizar una energía barata y competitiva, evitando regulaciones climáticas que perjudiquen a la industria."
+      ],
+      [
+        "D",
+        "Apostar por una combinación de nuclear, renovables y otras fuentes para garantizar el suministro."
+      ],
+      [
+        "E",
+        "Reforzar la protección de espacios naturales y biodiversidad."
+      ],
+      [
+        "F",
+        "Retrasar o revisar las medidas climáticas que encarezcan excesivamente la vida de los ciudadanos."
+      ],
+      [
+        "G",
+        "Impulsar la economía circular y reducir los residuos y plásticos."
+      ]
+    ]
+  },
+  {
+    "id": "seguridad",
+    "title": "Seguridad y justicia",
+    "weight": 7,
+    "prompt": "¿Qué medidas consideras prioritarias?",
+    "options": [
+      [
+        "A",
+        "Endurecer las penas para delitos graves y reincidentes."
+      ],
+      [
+        "B",
+        "Reforzar los medios de Policía, Guardia Civil y Justicia."
+      ],
+      [
+        "C",
+        "Priorizar la prevención, la reinserción y las políticas sociales frente al endurecimiento penal."
+      ],
+      [
+        "D",
+        "Aumentar las garantías judiciales y limitar los abusos de poder de las fuerzas de seguridad."
+      ],
+      [
+        "E",
+        "Combatir especialmente la corrupción política y económica."
+      ],
+      [
+        "F",
+        "Aumentar la vigilancia y los medios tecnológicos contra la delincuencia."
+      ]
+    ]
+  },
+  {
+    "id": "derechos",
+    "title": "Derechos sociales e igualdad",
+    "weight": 6,
+    "prompt": "¿Qué posiciones compartes?",
+    "options": [
+      [
+        "A",
+        "Reforzar las políticas públicas de igualdad entre hombres y mujeres."
+      ],
+      [
+        "B",
+        "Eliminar organismos y políticas específicas de igualdad y sustituirlas por políticas generales de igualdad ante la ley."
+      ],
+      [
+        "C",
+        "Ampliar los derechos LGTBI y las medidas contra la discriminación."
+      ],
+      [
+        "D",
+        "Dar prioridad a la igualdad de oportunidades frente a las políticas basadas en cuotas o discriminación positiva."
+      ],
+      [
+        "E",
+        "Reforzar la protección de las familias y fomentar la natalidad."
+      ],
+      [
+        "F",
+        "Proteger el derecho al aborto y ampliar las políticas de salud sexual y reproductiva."
+      ],
+      [
+        "G",
+        "Defender una mayor libertad de expresión frente a las restricciones legales sobre discursos y contenidos."
+      ]
+    ]
+  },
+  {
+    "id": "exterior",
+    "title": "Política exterior, UE y defensa",
+    "weight": 5,
+    "prompt": "¿Qué posición debería adoptar España?",
+    "options": [
+      [
+        "A",
+        "Reforzar la integración europea y avanzar hacia una mayor coordinación política y económica."
+      ],
+      [
+        "B",
+        "Defender la soberanía nacional frente a las decisiones de las instituciones europeas."
+      ],
+      [
+        "C",
+        "Aumentar el gasto militar y reforzar el compromiso con la OTAN."
+      ],
+      [
+        "D",
+        "Reducir el gasto militar y priorizar la diplomacia y la cooperación internacional."
+      ],
+      [
+        "E",
+        "Mantener una posición internacional pragmática, priorizando los intereses económicos y estratégicos de España."
+      ],
+      [
+        "F",
+        "Reforzar la ayuda al desarrollo y la cooperación humanitaria."
+      ],
+      [
+        "G",
+        "Defender una política exterior más independiente de las grandes potencias."
+      ]
+    ]
+  },
+  {
+    "id": "instituciones",
+    "title": "Democracia e instituciones",
+    "weight": 4,
+    "prompt": "¿Qué reformas apoyarías?",
+    "options": [
+      [
+        "A",
+        "Reformar el sistema electoral para mejorar la proporcionalidad entre votos y escaños."
+      ],
+      [
+        "B",
+        "Reforzar la independencia judicial y modificar el sistema de elección de los órganos judiciales."
+      ],
+      [
+        "C",
+        "Reducir el número de políticos, asesores y organismos públicos."
+      ],
+      [
+        "D",
+        "Reforzar los mecanismos de participación ciudadana mediante consultas y referéndums."
+      ],
+      [
+        "E",
+        "Endurecer las penas por corrupción y aumentar la transparencia de las instituciones."
+      ],
+      [
+        "F",
+        "Limitar los mandatos de los principales cargos políticos."
+      ],
+      [
+        "G",
+        "Mantener el sistema institucional actual, introduciendo únicamente mejoras puntuales."
+      ]
+    ]
+  },
+  {
+    "id": "transporte",
+    "title": "Transporte y mundo rural",
+    "weight": 2,
+    "prompt": "¿Qué prioridades apoyarías?",
+    "options": [
+      [
+        "A",
+        "Ampliar y mejorar las redes ferroviarias, especialmente Cercanías y trenes convencionales."
+      ],
+      [
+        "B",
+        "Priorizar las carreteras y las infraestructuras necesarias para el transporte privado."
+      ],
+      [
+        "C",
+        "Mejorar el transporte público urbano e interurbano y hacerlo más asequible."
+      ],
+      [
+        "D",
+        "Apoyar al sector agrícola y ganadero reduciendo trabas burocráticas y regulaciones."
+      ],
+      [
+        "E",
+        "Reforzar las ayudas al campo y proteger la producción nacional frente a la competencia exterior."
+      ],
+      [
+        "F",
+        "Favorecer la inversión privada en infraestructuras."
+      ],
+      [
+        "G",
+        "Impulsar medidas contra la despoblación y mejorar los servicios públicos rurales."
+      ]
+    ]
+  },
+  {
+    "id": "proteccion",
+    "title": "Protección animal y cooperación",
+    "weight": 2,
+    "prompt": "¿Qué medidas te parecen importantes?",
+    "options": [
+      [
+        "A",
+        "Endurecer las penas por maltrato animal y reforzar su protección legal."
+      ],
+      [
+        "B",
+        "Priorizar la protección animal y la conservación de la biodiversidad en las políticas públicas."
+      ],
+      [
+        "C",
+        "Mantener las tradiciones culturales y actividades relacionadas con animales, aunque exista controversia sobre su bienestar."
+      ],
+      [
+        "D",
+        "Incrementar la cooperación internacional y la ayuda humanitaria."
+      ],
+      [
+        "E",
+        "Priorizar el gasto público en las necesidades de los ciudadanos residentes en España."
+      ],
+      [
+        "F",
+        "Reforzar las políticas de acogida y atención a personas vulnerables."
+      ],
+      [
+        "G",
+        "Reducir el gasto exterior para concentrar los recursos en problemas nacionales."
+      ]
+    ]
+  }
+]
