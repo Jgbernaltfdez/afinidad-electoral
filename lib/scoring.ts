@@ -1,14 +1,39 @@
 /**
- * Modelo de datos para la compatibilidad.
- * Una posición solo puede puntuarse cuando tiene evidencia documental.
- * Valores: "support" | "oppose" | "mixed" | "unknown".
+ * Cálculo de afinidad basado exclusivamente en posiciones con evidencia verificable.
+ * La ausencia de información nunca se interpreta como desacuerdo.
  */
 export type Stance = "support" | "oppose" | "mixed" | "unknown";
-export type Evidence = { sourceTitle: string; url: string; page?: string; quote?: string; checkedAt: string };
-export type PartyPosition = { questionId: string; optionId: string; stance: Stance; evidence?: Evidence };
+export type Evidence = {
+  sourceTitle: string;
+  url: string;
+  page?: string;
+  quote?: string;
+  checkedAt: string;
+};
+export type PartyPosition = {
+  questionId: string;
+  optionId: string;
+  stance: Stance;
+  evidence?: Evidence;
+};
 export type PartyProfile = { id: string; name: string; positions: PartyPosition[] };
 
-const VALUE: Record<Stance, number> = { support: 1, mixed: 0.5, oppose: 0, unknown: 0 };
+const VALUE: Record<Exclude<Stance, "unknown">, number> = {
+  support: 1,
+  mixed: 0.5,
+  oppose: 0
+};
+
+function hasVerifiableEvidence(position: PartyPosition): boolean {
+  const evidence = position.evidence;
+  return Boolean(
+    position.stance !== "unknown" &&
+    evidence?.sourceTitle?.trim() &&
+    evidence?.url?.trim() &&
+    evidence?.checkedAt?.trim() &&
+    evidence?.quote?.trim()
+  );
+}
 
 export function calculateCompatibility(
   answers: Record<string, string[]>,
@@ -21,31 +46,32 @@ export function calculateCompatibility(
   let evidenceCount = 0;
 
   for (const [questionId, selectedOptions] of Object.entries(answers)) {
-    const weight = weights[questionId] ?? 0;
-    if (!selectedOptions.length) continue;
-    const positions = selectedOptions.map(optionId =>
-      party.positions.find(p => p.questionId === questionId && p.optionId === optionId)
-    );
-    const known = positions.filter(p => p && p.stance !== "unknown");
-    if (!known.length) continue;
+    const questionWeight = weights[questionId] ?? 0;
+    if (!selectedOptions.length || questionWeight <= 0) continue;
 
-    const average = known.reduce((sum, p) => sum + VALUE[p!.stance], 0) / known.length;
-    weightedScore += average * weight;
-    weightedKnown += weight;
-    weightedPossible += weight;
-    evidenceCount += known.filter(p => p?.evidence).length;
+    const optionWeight = questionWeight / selectedOptions.length;
+    weightedPossible += questionWeight;
+
+    for (const optionId of selectedOptions) {
+      const position = party.positions.find(
+        item => item.questionId === questionId && item.optionId === optionId
+      );
+      if (!position || !hasVerifiableEvidence(position)) continue;
+
+      weightedScore += VALUE[position.stance as Exclude<Stance, "unknown">] * optionWeight;
+      weightedKnown += optionWeight;
+      evidenceCount += 1;
+    }
   }
 
   return {
-    compatibility: weightedKnown ? Math.round((weightedScore / weightedKnown) * 100) : null,
-    coverage: totalCoverage(weightedKnown, answers, weights),
+    compatibility: weightedKnown > 0
+      ? Math.round((weightedScore / weightedKnown) * 100)
+      : null,
+    coverage: weightedPossible > 0
+      ? Math.round((weightedKnown / weightedPossible) * 100)
+      : 0,
     evidenceCount,
-    comparableWeight: weightedKnown
+    comparableWeight: Math.round(weightedKnown * 100) / 100
   };
-}
-
-function totalCoverage(knownWeight: number, answers: Record<string, string[]>, weights: Record<string, number>) {
-  const answeredWeight = Object.entries(answers).reduce((sum, [id, selected]) =>
-    sum + (selected.length ? (weights[id] ?? 0) : 0), 0);
-  return answeredWeight ? Math.round(knownWeight / answeredWeight * 100) : 0;
 }
