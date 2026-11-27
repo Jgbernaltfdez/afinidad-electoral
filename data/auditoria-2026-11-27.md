@@ -20,8 +20,8 @@ Una posición solo se puntúa si la propuesta coincide de forma directa con una 
 ## Hallazgos y cambios de esta revisión
 - PSOE: se retira la correspondencia de seguridad D. La propuesta de cámaras corporales e identificaciones no discriminatorias no basta por sí sola para acreditar garantías judiciales y límites a abusos de las fuerzas de seguridad.
 - VOX: se retira empleo C. La cuota reducida de autónomos no equivale a reducir cotizaciones sociales y costes de contratación empresariales.
-- Democracia 21: se retira sanidad A. La supuesta apertura de quirófanos públicos por las tardes no se ha localizado en el programa oficial. Se incorpora sanidad F: el programa establece evaluación pública de eficacia, impacto y coste de los programas de gasto (p. 10 del PDF), correspondencia directa con reformas de gestión y evaluación.
-- Democracia 21: las posiciones sobre limitación temporal de alquileres, elección judicial del CGPJ, reducción de asesores, medidas anticorrupción y límite de ocho años para ejercer un mismo cargo se encuentran en el PDF oficial.
+- Democracia 21: el cotejo del PDF oficial permitió confirmar sanidad A en p. 68 (apertura de quirófanos públicos en turno de tarde) y sanidad F en p. 68 (auditoría continua del uso de presupuestos, quirófanos, camas y recursos para detectar ineficiencias). Se conservan ambas correspondencias.
+- Democracia 21: las posiciones sobre limitación temporal de alquileres (p. 18), elección judicial del CGPJ (p. 8), reducción de asesores (p. 3), medidas anticorrupción (pp. 5–6) y límite de ocho años para ejercer un mismo cargo (p. 12) se han cotejado en el PDF oficial.
 - Se actualizan los enlaces de evidencia de los siete perfiles para que apunten al documento o publicación oficial, no a las fichas secundarias utilizadas para localizar propuestas.
 
 ## Cobertura codificada tras esta revisión
@@ -31,8 +31,8 @@ Una posición solo se puntúa si la propuesta coincide de forma directa con una 
 - VOX: 11 posiciones
 - FA: 4 posiciones
 - SALF: 17 posiciones
-- D21: 6 posiciones
-- Total en toda la base: 98 posiciones en 14 perfiles.
+- D21: 7 posiciones
+- Total en toda la base: 99 posiciones en 14 perfiles.
 
 ## Limitaciones que deben quedar visibles
 - El avance de VOX no equivale a un programa completo.
