@@ -1139,13 +1139,25 @@
       },
       {
         "questionId": "sanidad",
+        "optionId": "A",
+        "stance": "support",
+        "evidence": {
+          "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
+          "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
+          "page": "p. 68 (PDF), «Rendimiento Máximo de Quirófanos y Reinversión en Listas de Espera»",
+          "quote": "Abrir las instalaciones sanitarias públicas en turno de tarde, priorizando a pacientes de la sanidad pública y reinvirtiendo los ingresos en reducir listas de espera, mejorar sueldos y renovar tecnología.",
+          "checkedAt": "2026-11-27"
+        }
+      },
+      {
+        "questionId": "sanidad",
         "optionId": "F",
         "stance": "support",
         "evidence": {
           "sourceTitle": "Programa oficial de Democracia 21 — «La España que merecemos» (29N 2026)",
           "url": "https://mi.democracia21.es/docs/programa/programa-democracia21.pdf",
-          "page": "p. 10 (PDF), evaluación de políticas y programas de gasto",
-          "quote": "Evaluación pública de la eficacia, el impacto y el coste de las políticas y programas de gasto; resultados publicados y utilizados para decidir su continuidad o modificación.",
+          "page": "p. 68 (PDF), «Auditar, Optimizar y Reinvertir»",
+          "quote": "Crear una Red Sanitaria Compartida y una auditoría continua para evaluar el uso de presupuestos, quirófanos, camas y recursos, detectando ineficiencias y cuellos de botella.",
           "checkedAt": "2026-11-27"
         }
       }
