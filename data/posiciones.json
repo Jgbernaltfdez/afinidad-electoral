@@ -560,10 +560,10 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Frente Amplio — extracto de propuestas oficiales publicadas para el 29N",
-          "url": "https://politicareal.org/elecciones-29n/programas/frente-amplio/",
-          "page": "propuestas económicas, 5 de noviembre",
-          "quote": "Impuesto sobre el patrimonio neto del 2 % desde un millón de euros y del 3 % desde 50 millones.",
+          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+          "page": "p. 10, introducción",
+          "quote": "El nuevo esfuerzo tributario recaerá sobre las grandes corporaciones, el sector financiero y las grandes fortunas mediante un tipo mínimo real del 20 % en Sociedades y la implantación de un impuesto a los ultrarricos, mientras bajamos el IRPF a los salarios más bajos.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -572,10 +572,10 @@
         "optionId": "C",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Frente Amplio — extracto de propuestas oficiales publicadas para el 29N",
-          "url": "https://politicareal.org/elecciones-29n/programas/frente-amplio/",
-          "page": "propuestas de vivienda",
-          "quote": "Inversión permanente en vivienda pública asequible hasta alcanzar el 1 % del PIB.",
+          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+          "page": "pp. 13–14, apartado 1.1",
+          "quote": "Asignación presupuestaria permanente del 1 % del PIB anual para la creación de un gran parque público y asequible de vivienda mayoritariamente en alquiler.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -584,10 +584,10 @@
         "optionId": "F",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Frente Amplio — extracto de propuestas oficiales publicadas para el 29N",
-          "url": "https://politicareal.org/elecciones-29n/programas/frente-amplio/",
-          "page": "propuestas de pensiones, 24 de octubre",
-          "quote": "Pensión mínima garantizada: ninguna pensión por debajo del salario mínimo interprofesional.",
+          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+          "page": "p. 63, apartado 4.3",
+          "quote": "Pensión mínima igual al SMI; ninguna pensión pública será inferior al salario mínimo interprofesional.",
           "checkedAt": "2026-11-27"
         }
       },
@@ -596,10 +596,10 @@
         "optionId": "A",
         "stance": "support",
         "evidence": {
-          "sourceTitle": "Frente Amplio — extracto de propuestas oficiales publicadas para el 29N",
-          "url": "https://politicareal.org/elecciones-29n/programas/frente-amplio/",
-          "page": "Pacto de Estado por el Tren, 2 de noviembre",
-          "quote": "Unificación de Renfe y Adif, más inversión en personal y mantenimiento y refuerzo de Cercanías.",
+          "sourceTitle": "Programa electoral oficial del Frente Amplio — «Un programa como una casa» (29N 2026)",
+          "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+          "page": "p. 73, apartado 5.2",
+          "quote": "Pacto de Estado por el Tren y operador público ferroviario único; más inversión en plantilla y mantenimiento y refuerzo de las Cercanías.",
           "checkedAt": "2026-11-27"
         }
       }
