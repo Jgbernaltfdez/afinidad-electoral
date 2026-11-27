@@ -5,7 +5,8 @@ Aplicación web Next.js para comparar preferencias ciudadanas con los programas 
 ## Estado de la documentación (27 de noviembre de 2026)
 
 - 14 candidaturas de Madrid identificadas.
-- 77 posiciones codificadas en 13 candidaturas.
+- 113 posiciones codificadas en 13 candidaturas (27 de noviembre de 2026).
+- La ampliación prioriza PP (15), PSOE (15), VOX (14), SALF (19), Podemos (8), D21 (8) y Frente Amplio (5).
 - Cada posición puntuable incluye fuente, enlace, cita breve y fecha de comprobación.
 - PCTE permanece sin posiciones puntuadas: el documento localizado se denomina «Programa de lucha» y las fuentes consultadas advierten que no es un programa electoral específico del 29N.
 - La ausencia de una propuesta explícita se deja sin codificar; no se interpreta como apoyo ni como rechazo.
@@ -18,7 +19,7 @@ El registro de documentos, el tipo de fuente y las limitaciones de cobertura se 
 2. Cada entrada exige título de fuente, URL, cita, fecha de comprobación y, cuando se dispone, página o apartado.
 3. «support» significa que la propuesta respalda la opción concreta del cuestionario; «oppose» que la contradice explícitamente; «mixed» que la posición es mixta; «unknown» no puntúa.
 4. No se infieren posturas por etiquetas ideológicas, declaraciones genéricas o silencio del programa.
-5. Algunas fichas secundarias reproducen extractos de los PDF oficiales y se identifican como tales en el título de la fuente. Esas entradas requieren una segunda comprobación contra el PDF primario antes de considerarse definitivas.
+5. Las fichas secundarias que resumen propuestas se identifican expresamente como extractos y no como citas literales de los PDF. Deben cotejarse con el documento primario antes de considerarse definitivas.
 
 ## Cálculo y transparencia
 
