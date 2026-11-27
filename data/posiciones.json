@@ -1,7 +1,7 @@
 [
   {
-    "partyId": "PSOE",
-    "partyName": "Partido Socialista Obrero Español",
+    "id": "PSOE",
+    "name": "Partido Socialista Obrero Español",
     "positions": [
       {
         "questionId": "vivienda",
@@ -42,8 +42,8 @@
     ]
   },
   {
-    "partyId": "PODEMOS",
-    "partyName": "Podemos",
+    "id": "PODEMOS",
+    "name": "Podemos",
     "positions": [
       {
         "questionId": "vivienda",
